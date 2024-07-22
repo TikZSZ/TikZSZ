@@ -13,9 +13,9 @@ I'm a passionate full-stack developer with a keen interest in AI, blockchain, an
 ## 🏆 Achievements
 
 - 🥇 First place winner, Hera India Hackathon
-- 🏅 Winner, Hello Hedera Hackathon 2022
-- 🏅 Winner, Huddle01 + Filcoin Video Jam Hackathon 2023
-- 🚀 Founded and led development at my startup JhattCut
+- 🏅 FileCoin + HashPack, Hello Hedera Hackathon 2022
+- 🏅 Gated Content Platform Track, Huddle01 + Filcoin Video Jam Hackathon 2023
+- 🚀 Co-founded and led the development team at my startup JhattCut 
 
 ## 🤖 AI & Machine Learning
 
