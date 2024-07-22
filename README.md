@@ -20,9 +20,10 @@ I'm a passionate full-stack developer with a keen interest in AI, blockchain, an
 ## 🤖 AI & Machine Learning
 
 - Extensive experience with Python for AI and machine learning projects
-- Proficient in using Hugging Face for model deployment and fine-tuning
+- Curated my own datasets and finetuned very large models (70b+)
 - Developed scripts for distributed fine-tuning, scaling from single machines to multi-node, multi-GPU setups
-- Worked with VLLM and LlamaCpp for optimized inference
+- Proficient in using Hugging Face for model deployment and fine-tuning
+- Worked with vLLM and LlamaCpp for optimized inference
 - **Coming Soon**: Meta Llama 3 8B model fine-tuned for function calling, achieving SOTA performance on the Berkeley function calling leaderboard
 
 ## 🌟 Open Source Contributions
@@ -32,7 +33,7 @@ I'm a passionate full-stack developer with a keen interest in AI, blockchain, an
 ## 🎮 Gaming & Tech Passions
 
 - 🖥️ Enthusiast in cutting-edge PC hardware and custom builds
-- 🕹️ Avid gamer, particularly enjoying competitive and RPGs, Soulsborne games like Elden Ring, DS 3 yada yada
+- 🕹️ Avid gamer, particularly enjoying competitive FPS games, RPGs, Soulsborne games like Elden Ring, DS 3 yada yada
 - 🔧 Love tunning hardware for max performance.
 - 🐧 Linux power user, with a focus on gaming, software development and distributed computing.
 - ✍️ Author of a [comprehensive guide](https://github.com/TikZSZ/vfio-gpu-passthrough) on running Windows on Linux for gaming with GPU passthrough
