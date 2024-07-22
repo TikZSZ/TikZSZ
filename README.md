@@ -7,12 +7,12 @@ I'm a passionate full-stack developer with a keen interest in AI, blockchain, an
 - 🌐 Full-stack developer specializing in web applications and AI integration
 - 🧠 AI enthusiast with experience in model fine-tuning and distributed computing
 - ⛓️ Blockchain advocate, exploring decentralized applications and web3 technologies
-- 🖥️ PC hardware enthusiast and avid gamer
 - 🐧 Linux aficionado with expertise in day to day software development and gaming
+- 🖥️ PC hardware enthusiast and avid gamer
   
 ## 🏆 Achievements
 
-- 🥇 First place winner, Hera India Hackathon
+- 🥇 First place, Hera India Hackathon
 - 🏅 FileCoin + HashPack, Hello Hedera Hackathon 2022
 - 🏅 Gated Content Platform Track, Huddle01 + Filcoin Video Jam Hackathon 2023
 - 🚀 Co-founded and led the development team at my startup JhattCut 
@@ -26,9 +26,22 @@ I'm a passionate full-stack developer with a keen interest in AI, blockchain, an
 - Worked with vLLM and LlamaCpp for optimized inference
 - **Coming Soon**: Meta Llama 3 8B model fine-tuned for function calling, achieving SOTA performance on the Berkeley function calling leaderboard
 
+## 🏗 Projects
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| Portfolio Site | Personal portfolio and blog platform | VueJS, TypeScript, NestJS, Postgres | [Link](https://tikzsz-portfolio.vercel.app/) |
+| LMPDF App | Chat with PDF app with stateful python backend and Sevelt Frontend | SeveltKit, Flask, Python, SQLlite | [Link](https://github.com/TikZSZ/langchain-pdf) |
+| dMail | E2E Decentralized email system on Hedera Hashgraph | VueJS, NestJS, Tailwind CSS, Postgres | [Link](https://dmaill.vercel.app/) |
+| factura | "Zero Trust" invoice creation HApp on Hedera | VueJS, NestJS, TypeScript, Postgres | [Link](https://facturaa.vercel.app/) |
+| Microservice Ticketing | Distributed microservices project for evens and ticket management | NATS, ExpressJS, MongoDB, Redis, NestJS | [Link](https://github.com/TikZSZ/microservices-ticket-app)|
+| Music App | Spotify-like app where any one can share songs and others can play it comes with awesome dashboard | VueJS, Firebase, TypeScript | [Link](https://music-app-iota.vercel.app/) |
+| E-Commerce App  | Ecomm app built only on redis leveraging a to z every data structure available in redis | SeveltKit, Redis, TypeScript | [Link](https://github.com/TikZSZ/learning-redis) |
+| Jargon Free | Jargon removal app using text scaning and Wikipedia (LLMs have outdated it but was a good idea) | React, TypeScript | [Link](https://jargon-free.netlify.app/) |
+
 ## 🌟 Open Source Contributions
 
-- [Gorilla](https://github.com/ShishirPatil/gorilla/pull/498): Added support for parallel inference that yielded baseline 5x speed-up 
+- [Gorilla](https://github.com/ShishirPatil/gorilla/pull/498): Added support for parallel inference that yielded baseline 5x speed-up
 
 ## 🎮 Gaming & Tech Passions
 
@@ -38,21 +51,6 @@ I'm a passionate full-stack developer with a keen interest in AI, blockchain, an
 - 🐧 Linux power user, with a focus on gaming, software development and distributed computing.
 - ✍️ Author of a [comprehensive guide](https://github.com/TikZSZ/vfio-gpu-passthrough) on running Windows on Linux for gaming with GPU passthrough
 - 🖼️ Keen follower of the latest advancements in gaming graphics and technologies
-
-## 🏗 Projects
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| Portfolio Site | Personal portfolio and blog platform | VueJS, TypeScript, NestJS | [Link](https://tikzsz-portfolio.vercel.app/) |
-| LMPDF App | Chat with PDF app with stateful python backend and Sevelt Frontend | SeveltKit, Flask, Python | [Link](https://github.com/TikZSZ/langchain-pdf) |
-| dMail | E2E Decentralized email system on Hedera Hashgraph | VueJS, NestJS, Tailwind CSS | [Link](https://dmaill.vercel.app/) |
-| factura | "Zero Trust" invoice creation HApp on Hedera | VueJS, NestJS, TypeScript | [Link](https://facturaa.vercel.app/) |
-| Microservice Ticketing | Distributed microservices project for evens and ticket management | NATS, ExpressJS, MongoDB, Redis, NestJS | [Link](https://github.com/TikZSZ/microservices-ticket-app)|
-| Music App | Spotify-like app where any one can share songs and others can play it comes with awesome dashboard | VueJS, Firebase, TypeScript | [Link](https://music-app-iota.vercel.app/) |
-| E-Commerce App  | Ecomm app built only on redis leveraging a to z every data structure available in redis | SeveltKit, Redis, TypeScript | [Link](https://github.com/TikZSZ/learning-redis) |
-| Jargon Free | Jargon removal app using text scaning and Wikipedia (LLMs have outdated it but was a good idea) | React, TypeScript | [Link](https://jargon-free.netlify.app/) |
-
-
 
 ## 💻 Tech Stack
 
