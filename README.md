@@ -33,7 +33,7 @@ I'm a passionate full-stack developer with a keen interest in AI, blockchain, an
 |---------|-------------|------------|------|
 | Portfolio Site | Personal portfolio and blog platform | VueJS, TypeScript, NestJS, Postgres | [Link](https://tikzsz-portfolio.vercel.app/) |
 | LMPDF App | Chat with PDF app with stateful python backend and Sevelt Frontend | SeveltKit, Flask, Python, SQLlite | [Link](https://github.com/TikZSZ/langchain-pdf) |
-| Hedera Chat | Hedera Chat is an AI-driven interface that makes interacting with Hedera as easy as having a conversation | [Link](https://github.com/TikZSZ/hedera-chat) |
+| Hedera Chat | Hedera Chat is an AI-driven interface that makes interacting with Hedera as easy as having a conversation | ReactJS, TypeScript, Appwrite, Shadcn, Tailwind, Hash Connect | [Link](https://github.com/TikZSZ/hedera-chat) |
 | dMail | E2E Decentralized email system on Hedera Hashgraph | VueJS, NestJS, Tailwind CSS, Postgres | [Link](https://dmaill.vercel.app/) |
 | factura | "Zero Trust" invoice creation HApp on Hedera | VueJS, NestJS, TypeScript, Postgres | [Link](https://facturaa.vercel.app/) |
 | Microservice Ticketing | Distributed microservices project for evens and ticket management | NATS, ExpressJS, MongoDB, Redis, NestJS | [Link](https://github.com/TikZSZ/microservices-ticket-app)|
