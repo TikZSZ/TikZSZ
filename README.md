@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Aditya (TikZSZ)
 
-I am the founder of **[ClyrisAI](https://clyris.ai)**, an AI-powered platform that automates technical due diligence for hiring engineers.
+I am the founder of **[ClyrisAI](https://clyrisai.com)**, an AI-powered platform that automates technical due diligence for hiring engineers.
 
 I'm a passionate full-stack developer with a keen interest in AI, blockchain, and cutting-edge web technologies and hardware enthusiast. Welcome to my GitHub profile!
 
@@ -86,6 +86,6 @@ I'm a passionate full-stack developer with a keen interest in AI, blockchain, an
 - **GitHub:** [@tikzsz](https://github.com/TikZSZ)
 - **Linkedin:** [@aditya](https://www.linkedin.com/in/tikzsz)
 - **Portfolio:** [Portfolio](https://tikzsz-portfolio.vercel.app/)
-- **ClyrisAI:** [clyris.ai](https://clyris.ai)
+- **ClyrisAI:** [clyris.ai](https://clyrisai.com)
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to explore my repositories and reach out if you'd like to discuss tech, AI, or potential projects!
