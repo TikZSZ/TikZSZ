@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Aditya (TikZSZ)
 
+I am the founder of **[ClyrisAI](https://clyris.ai)**, an AI-powered platform that automates technical due diligence for hiring engineers.
+
 I'm a passionate full-stack developer with a keen interest in AI, blockchain, and cutting-edge web technologies and hardware enthusiast. Welcome to my GitHub profile!
 
 ## 🚀 About Me
@@ -31,15 +33,15 @@ I'm a passionate full-stack developer with a keen interest in AI, blockchain, an
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| Portfolio Site | Personal portfolio and blog platform | VueJS, TypeScript, NestJS, Postgres | [Link](https://tikzsz-portfolio.vercel.app/) |
-| LMPDF App | Chat with PDF app with stateful python backend and Sevelt Frontend | SeveltKit, Flask, Python, SQLlite | [Link](https://github.com/TikZSZ/langchain-pdf) |
-| Hedera Chat | Hedera Chat is an AI-driven interface that makes interacting with Hedera as easy as having a conversation | ReactJS, TypeScript, Appwrite, Shadcn, Tailwind, Hash Connect | [Link](https://github.com/TikZSZ/hedera-chat) |
-| dMail | E2E Decentralized email system on Hedera Hashgraph | VueJS, NestJS, Tailwind CSS, Postgres | [Link](https://dmaill.vercel.app/) |
-| factura | "Zero Trust" invoice creation HApp on Hedera | VueJS, NestJS, TypeScript, Postgres | [Link](https://facturaa.vercel.app/) |
-| Microservice Ticketing | Distributed microservices project for evens and ticket management | NATS, ExpressJS, MongoDB, Redis, NestJS | [Link](https://github.com/TikZSZ/microservices-ticket-app)|
-| Music App | Spotify-like app where any one can share songs and others can play it comes with awesome dashboard | VueJS, Firebase, TypeScript | [Link](https://music-app-iota.vercel.app/) |
-| E-Commerce App  | Ecomm app built only on redis leveraging a to z every data structure available in redis | SeveltKit, Redis, TypeScript | [Link](https://github.com/TikZSZ/learning-redis) |
-| Jargon Free | Jargon removal app using text scaning and Wikipedia (LLMs have outdated it but was a good idea) | React, TypeScript | [Link](https://jargon-free.netlify.app/) |
+| **HiD** | A full-stack dApp for Decentralized Identity (DIDs) & Verifiable Credentials (VCs) on Hedera, featuring BBS+ signatures for selective disclosure. | React, Appwrite, Hedera SDK | [GitHub](https://github.com/TikZSZ/HiD) |
+| **Hedera Chat** | An AI-driven chat interface for the Hedera network, using function calling to simplify blockchain interactions into natural language. | ReactJS, TypeScript, Appwrite | [GitHub](https://github.com/TikZSZ/hedera-chat) |
+| **Microservice Ticketing** | A distributed, microservices-based system for event management, built with a message broker (NATS) and multiple independent services. | NATS, NestJS, Express, MongoDB | [GitHub](https://github.com/TikZSZ/microservices-ticket-app)|
+| **LMPDF App** | An end-to-end RAG application for chatting with PDFs, featuring a stateful Python backend and a SvelteKit frontend. | SvelteKit, Flask, Python, LangChain | [GitHub](https://github.com/TikZSZ/langchain-pdf) |
+| **Portfolio Site** | Personal portfolio and blog platform | VueJS, TypeScript, NestJS, Postgres | [Link](https://tikzsz-portfolio.vercel.app/) |
+| **dMail** | E2E Decentralized email system on Hedera Hashgraph | VueJS, NestJS, Tailwind CSS, Postgres | [Link](https://dmaill.vercel.app/) |
+| **factura** | "Zero Trust" invoice creation HApp on Hedera | VueJS, NestJS, TypeScript, Postgres | [Link](https://facturaa.vercel.app/) |
+| **Music App** | Spotify-like app where any one can share songs and others can play it comes with awesome dashboard | VueJS, Firebase, TypeScript | [Link](https://music-app-iota.vercel.app/) |
+| **Redis E-Comm App**  | Ecommerce app built only on redis leveraging a to z every data structure available in redis | SeveltKit, Redis, TypeScript | [Link](https://github.com/TikZSZ/learning-redis) |
 
 ## 🌟 Open Source Contributions
 
@@ -80,9 +82,10 @@ I'm a passionate full-stack developer with a keen interest in AI, blockchain, an
 
 ## 📫 Connect with Me
 
-- Twitter: [@TikZ41414516](https://twitter.com/TikZ41414516)
-- GitHub: [@tikzsz](https://github.com/tikzsz)
-- Linkedin: [@aditya](https://www.linkedin.com/in/aditya-singh-728925178/)
-- Portfolio: [Portfolio](https://tikzsz-portfolio.vercel.app/)
+- **Twitter:** [@TikZSZ](https://twitter.com/TikZSZ)
+- **GitHub:** [@tikzsz](https://github.com/TikZSZ)
+- **Linkedin:** [@aditya](https://www.linkedin.com/in/tikzsz)
+- **Portfolio:** [Portfolio](https://tikzsz-portfolio.vercel.app/)
+- **ClyrisAI:** [clyris.ai](https://clyris.ai)
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to explore my repositories and reach out if you'd like to discuss tech, AI, or potential projects!
